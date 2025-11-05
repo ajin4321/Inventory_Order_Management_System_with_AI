@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IOMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2460a91aa9f7ea9d00eedf758a12d36425c15f8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf36e7de865c78f887c33887f874fb25d26c82e")]
 [assembly: System.Reflection.AssemblyProductAttribute("IOMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IOMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

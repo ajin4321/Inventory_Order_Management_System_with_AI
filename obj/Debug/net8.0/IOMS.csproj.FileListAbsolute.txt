@@ -336,3 +336,7 @@ C:\Users\Dell\source\repos\IOMS\obj\Debug\net8.0\refint\IOMS.dll
 C:\Users\Dell\source\repos\IOMS\obj\Debug\net8.0\IOMS.pdb
 C:\Users\Dell\source\repos\IOMS\obj\Debug\net8.0\IOMS.genruntimeconfig.cache
 C:\Users\Dell\source\repos\IOMS\obj\Debug\net8.0\ref\IOMS.dll
+C:\Users\Dell\source\repos\IOMS\bin\Debug\net8.0\ioms-client\package-lock.json
+C:\Users\Dell\source\repos\IOMS\bin\Debug\net8.0\ioms-client\package.json
+C:\Users\Dell\source\repos\IOMS\bin\Debug\net8.0\ioms-client\public\manifest.json
+C:\Users\Dell\source\repos\IOMS\obj\Debug\net8.0\IOMS.sourcelink.json
